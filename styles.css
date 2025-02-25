@@ -148,6 +148,18 @@ header {
         color: rgb(203, 234, 123);
         scale: 2;
     }
+
+    .logo {
+        font-size: 1.5rem;
+        font-weight: bold;
+        /* color: #ffffff; */
+        display: flex;
+        gap: 1rem;
+    }
+    
+    .logo img {
+        width: 2rem;
+    }
 }
 
 
