@@ -155,10 +155,12 @@ header {
         /* color: #ffffff; */
         display: flex;
         gap: 1rem;
+        transition: transform 1.3s ease;
     }
-    
+
     .logo img {
         width: 2rem;
+        transition: transform 1.3s ease;
     }
 }
 
